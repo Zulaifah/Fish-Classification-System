@@ -2,6 +2,8 @@ streamlit
 pandas
 numpy
 scikit-learn
-plotly
-pillow
-joblib
+matplotlib
+seaborn
+scipy
+openpyxl
+imbalanced-learn
